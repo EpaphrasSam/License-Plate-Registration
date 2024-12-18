@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Model files (if you don't want to use Git LFS)
+*.weights
+*.h5
+*.pt
+
+# Dataset files
+*.zip
+data/
+annotations/
+
+# Large CSV files (if they're regeneratable)
+# *.csv
+
+# Logs and runs
+runs/
+logs/
+
+# Local development settings
+.env
