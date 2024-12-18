@@ -1,0 +1,6 @@
+path: '/Users/user/Desktop/AI projects/License Plate Registration/data'
+train: images/train
+val: images/train
+
+names:
+  0: license_plates
