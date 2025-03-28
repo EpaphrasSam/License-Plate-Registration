@@ -33,3 +33,6 @@ logs/
 
 # Local development settings
 .env
+automatic-number-plate-recognition-python
+darknet
+yolov3-from-opencv-object-detection
